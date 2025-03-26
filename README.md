@@ -1,7 +1,7 @@
 # Game name
 Console based tetris game using C++ and object oriented concepts and data structures.
 ## Contents
--  [Installation](# installation)
+-  [Installation](#installation)
 - [Overview and features](#overview-and-features)
 - [Demo](#demo)
 - [Working and implementation](#working-and-implementation)
@@ -48,6 +48,10 @@ Z - Bright Red
 Blink and bold methods are used for making the game look appealing.
 ## Demo
 [![Watch Gameplay](image1.jpeg)](video1.mp4)
+<video width="600" controls>
+  <source src="https://github.com/yugprajapati212/Tetris-game/raw/main/video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Working and implementation
 ### Taking Input
