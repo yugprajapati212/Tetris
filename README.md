@@ -16,8 +16,7 @@ git clone https://github.com/yugprajapati/<to update>
 2. Compile the file
 ```
 g++ <tu>.cpp -static -o ./<tu>
-`+
-``
+```
 3. Run the game
 ```
 <tu>
