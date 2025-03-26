@@ -50,6 +50,7 @@ Blink and bold methods are used for making the game look appealing.
 ### Gameplay:
 <video width="640" height="360" controls>
   <source src="video1.mp4" type="video/mp4">
+  Browser does not support the video tag.
 </video>
 
 ## Working and implementation
