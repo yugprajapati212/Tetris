@@ -47,11 +47,7 @@ S - Green
 Z - Bright Red 
 Blink and bold methods are used for making the game look appealing.
 ## Demo
-### Gameplay:
-<video width="640" height="360" controls>
-  <source src="video1.mp4" type="video/mp4">
-  Browser does not support the video tag.
-</video>
+[![Watch Gameplay](image1.jpeg)](video1.mp4)
 
 ## Working and implementation
 ### Taking Input
