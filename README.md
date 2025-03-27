@@ -1,4 +1,4 @@
-# Tertis++
+# Tetris++
 Console based tetris game using C++ and object oriented concepts and data structures.
 ![logo](logo.jpg)
 ## Contents
