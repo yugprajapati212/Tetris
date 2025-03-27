@@ -36,7 +36,7 @@ tertis++
 - ↓ Down arrow and spacebar keys are used for soft and hard drop respectively.
 - Press ESC to pause or quit.
 
-###Designing
+### Designing
 Each block is represented by square brackets [], boundaries by |. Different colors for each tetromino blocks:
 I - Cyan  
 T - Magenta  
