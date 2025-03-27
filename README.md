@@ -12,7 +12,7 @@ You can download the executable (.exe file) and directly run it. Or compile and 
 For compiling the source code (C++ (17 or later)) is required.
 1. Clone the repository
 ```
-git clone https://github.com/yugprajapati/tetrispp
+git clone https://github.com/yugprajapati/tetris
 ```
 2. Compile the file
 ```
