@@ -1,5 +1,6 @@
-# Game name
+# Tertis++
 Console based tetris game using C++ and object oriented concepts and data structures.
+![logo](logo.jpg)
 ## Contents
 -  [Installation](#installation)
 - [Overview and features](#overview-and-features)
@@ -11,15 +12,15 @@ You can download the executable (.exe file) and directly run it. Or compile and 
 For compiling the source code (C++ (17 or later)) is required.
 1. Clone the repository
 ```
-git clone https://github.com/yugprajapati/<to update>
+git clone https://github.com/yugprajapati/tetrispp
 ```
 2. Compile the file
 ```
-g++ <tu>.cpp -static -o ./<tu>
+g++ tetris++.cpp -static -o ./tetris++
 ```
 3. Run the game
 ```
-<tu>
+tertis++
 ```
 
 ## Overview and features
