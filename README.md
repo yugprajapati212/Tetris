@@ -51,6 +51,10 @@ Here is a demo gameplay:
 [![Watch Gameplay](image1.jpeg)](video1.mp4)
 
 
+
+https://github.com/user-attachments/assets/bedc0fa2-b975-44b7-b7e9-7761ff1f5737
+
+
 ## Working and implementation
 ### Taking Input
 To take input from the player we have used methods _getch() and _khbit(). Before updating the game state out to stdout khbit is used to check if a key is pressed and make changes acccording to the player input.
