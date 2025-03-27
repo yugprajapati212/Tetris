@@ -31,9 +31,9 @@ tertis++
 - Game is over when blocks reach the top.
 
 ### Controls
-- The side arrow keys are used for the movement of tetromino(← for left and → for right)
-- ↑ Up arrow key is used for rotating the falling peice 90 degrees.
-- ↓ Down arrow and spacebar keys are used for soft and hard drop respectively.
+- The side arrow keys and 'A'/'D' are used for the movement of tetromino(←/'A' for left and →/'B' for right)
+- ↑ Up arrow and 'W' key is used for rotating the falling peice 90 degrees.
+- ↓ Down arrow/'S' key and spacebar keys are used for soft and hard drop respectively.
 - Press ESC to pause or quit.
 
 ### Designing
