@@ -1,5 +1,5 @@
 # Tetris++
-Console based tetris game using C++ and object oriented concepts and data structures.
+Console based tetris game using C++, object oriented programming and data structures.
 ![logo](logo.jpg)
 ## Contents
 -  [Installation](#installation)
@@ -47,6 +47,7 @@ S - Green
 Z - Bright Red 
 Blink and bold methods are used for making the game look appealing.
 ## Demo
+Here is a demo gameplay:
 [![Watch Gameplay](image1.jpeg)](video1.mp4)
 
 
